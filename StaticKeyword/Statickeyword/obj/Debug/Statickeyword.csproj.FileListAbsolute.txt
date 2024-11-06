@@ -1,0 +1,7 @@
+C:\Users\shind\source\repos\Statickeyword\Statickeyword\bin\Debug\Statickeyword.exe.config
+C:\Users\shind\source\repos\Statickeyword\Statickeyword\bin\Debug\Statickeyword.exe
+C:\Users\shind\source\repos\Statickeyword\Statickeyword\bin\Debug\Statickeyword.pdb
+C:\Users\shind\source\repos\Statickeyword\Statickeyword\obj\Debug\Statickeyword.csproj.AssemblyReference.cache
+C:\Users\shind\source\repos\Statickeyword\Statickeyword\obj\Debug\Statickeyword.csproj.CoreCompileInputs.cache
+C:\Users\shind\source\repos\Statickeyword\Statickeyword\obj\Debug\Statickeyword.exe
+C:\Users\shind\source\repos\Statickeyword\Statickeyword\obj\Debug\Statickeyword.pdb
